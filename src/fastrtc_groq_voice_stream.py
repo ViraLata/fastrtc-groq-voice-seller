@@ -12,7 +12,7 @@ from groq import Groq
 from loguru import logger
 
 from process_groq_tts import process_groq_tts
-from simple_math_agent import agent, agent_config
+from simple_agent import agent, agent_config
 
 logger.remove()
 logger.add(
