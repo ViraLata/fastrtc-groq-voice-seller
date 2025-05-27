@@ -32,8 +32,4 @@ python fastrtc_groq_voice_stream.py --phone
 
 ## Usage Examples
 
-### Math Agent Commands
-
-- "What is 5 plus 7?"
-- "Can you multiply 12 and 4?"
-- "Calculate the sum of 123 and 456"
+### Get revenue, name and niche
